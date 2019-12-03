@@ -22,21 +22,20 @@ public class Runner {
 
             var listOfStocks =
                     listOfSymbols.stream()
-                    .limit(10)
                     .map(stockService::lookupSymbol)
                     .filter(Objects::nonNull)
                     .filter(stockService::validate)
                     .map(stock->
-                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s",
-                            stock.symbol, stock.name,stock.industry,stock.dividendYield,stock.marketCap,stock.revenue,stock.priceToBook,stock.priceToSales,stock.priceToEarnings,stock.freeCashFlow))
+                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s",
+                            stock.symbol, stock.name,stock.industry,stock.dividendYield,stock.marketCap,stock.revenue,stock.priceToBook,stock.priceToSales,stock.priceToEarnings,stock.freeCashFlow,stock.debtToEquity))
                     .collect(Collectors.toList());
 
             if (!listOfStocks.isEmpty()) {
                 System.out.println("Writing to file...");
                 try (BufferedWriter output = Files.newBufferedWriter(Paths.get("./stockData.csv"))) {
                     output.write(
-                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\r\n",
-                            "Symbol", "Name","Industry","Dividend","Market Cap","Revenue","P/B","P/S","P/E","Cashflow"));
+                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\r\n",
+                            "Symbol", "Name","Industry","Dividend","Market Cap","Revenue","P/B","P/S","P/E","Cashflow","Debt/Equity"));
                     for (String line:listOfStocks) {
                         output.write(String.format("%s\r\n",line));
                     }
