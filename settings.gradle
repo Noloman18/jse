@@ -1,0 +1,4 @@
+rootProject.name = 'jse'
+include 'core'
+include 'impl'
+
