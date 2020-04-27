@@ -30,6 +30,11 @@ public class ReutersStockService implements StockService {
             Double.parseDouble(stock.freeCashFlow);
             Double.parseDouble(stock.priceToSales);
             Double.parseDouble(stock.priceToBook);
+            Double.parseDouble(stock.quickRatio);
+            Double.parseDouble(stock.price);
+            Double.parseDouble(stock.yearHigh);
+            Double.parseDouble(stock.yearLow);
+            Double.parseDouble(stock.yearReturn);
             return true;
         }
         catch(NumberFormatException|NullPointerException n) {
@@ -70,6 +75,21 @@ public class ReutersStockService implements StockService {
                       break;
                   case "Revenue (Annual)":
                       stock.revenue = value;
+                      break;
+                  case "Price closing or last bid":
+                      stock.price = value;
+                      break;
+                  case "52 Week High":
+                      stock.yearHigh = value;
+                      break;
+                  case "52 Week Low":
+                      stock.yearLow = value;
+                      break;
+                  case "52 Week Price Return (Daily)":
+                      stock.yearReturn = value;
+                      break;
+                  case "Quick Ratio (Annual)":
+                      stock.quickRatio = value;
                       break;
               }
           }

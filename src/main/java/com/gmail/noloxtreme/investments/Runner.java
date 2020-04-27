@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
 public class Runner {
 
     public static void main(String[] args) throws Exception {
+
         var stockServiceWrapper =
                 ServiceLoader.load(StockService.class).findFirst();
 
@@ -26,16 +27,16 @@ public class Runner {
                     .filter(Objects::nonNull)
                     .filter(stockService::validate)
                     .map(stock->
-                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s",
-                            stock.symbol, stock.name,stock.industry,stock.dividendYield,stock.marketCap,stock.revenue,stock.priceToBook,stock.priceToSales,stock.priceToEarnings,stock.freeCashFlow,stock.debtToEquity))
+                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s",
+                            stock.symbol, stock.name,stock.industry,stock.dividendYield,stock.marketCap,stock.revenue,stock.priceToBook,stock.priceToSales,stock.priceToEarnings,stock.freeCashFlow,stock.debtToEquity,stock.quickRatio,stock.changeFromHigh(),stock.getDeadCatBounce()))
                     .collect(Collectors.toList());
 
             if (!listOfStocks.isEmpty()) {
                 System.out.println("Writing to file...");
                 try (BufferedWriter output = Files.newBufferedWriter(Paths.get("./stockData.csv"))) {
                     output.write(
-                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\r\n",
-                            "Symbol", "Name","Industry","Dividend","Market Cap","Revenue","P/B","P/S","P/E","Cashflow","Debt/Equity"));
+                            String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\r\n",
+                            "Symbol", "Name","Industry","Dividend","Market Cap","Revenue","P/B","P/S","P/E","Cashflow","Debt/Equity","Quick Ratio", "Change From High", "Bounce from bottom"));
                     for (String line:listOfStocks) {
                         output.write(String.format("%s\r\n",line));
                     }
