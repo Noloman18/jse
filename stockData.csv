@@ -1,111 +1,111 @@
-Symbol,Name,Industry,Dividend,Market Cap,Revenue,P/B,P/S,P/E,Cashflow,Debt/Equity,Quick Ratio,Change From High,Bounce from bottom
-CSB,Cashbuild Limited,Retail (Home Improvement),5.89,3565.05,10821.24,1.65,0.33,7.59,-424.70,0.00,0.47,-51.69,103.80
-MDI,Master Drilling Group Ltd,Metal Mining,4.33,862.58,2821.39,0.27,0.31,2.99,-62.61,35.83,1.62,-54.00,15.00
-CLH,City Lodge Hotels Limited,Hotels & Motels,10.18,1198.28,1547.98,1.08,0.77,4.90,-211.71,128.74,1.36,-77.25,106.77
-ITE,Italtile Limited,Retail (Specialty),4.02,13216.54,6975.00,2.18,1.89,9.78,52.00,14.34,3.25,-31.03,9.89
-IMP,Impala Platinum Holdings Limited,Metal Mining,--,95894.31,48629.00,2.02,1.97,54.23,6781.00,21.88,1.21,-37.99,145.91
-ADH,Advtech Limited,Schools,3.68,4642.57,5108.00,1.37,0.91,9.71,-225.90,96.61,0.32,-43.03,42.91
-BTI,,,6.93,67793.65,25877.00,1.06,2.62,11.97,3583.00,70.25,0.38,-15.74,31.39
-NTC,Netcare Limited,Healthcare Facilities,7.13,22974.52,21589.00,2.21,1.06,8.90,-207.00,67.23,0.94,-36.30,35.96
-BLU,Blue Label Telecoms Limited,Communications Services,--,1754.22,25869.43,0.73,0.07,--,-290.47,147.20,0.93,-63.22,26.32
-MPT,Mpact Ltd,Paper & Paper Products,7.87,1299.78,11076.30,0.37,0.12,--,213.40,78.46,1.43,-71.03,575.68
-CLS,Clicks Group Ltd,Retail (Drugs),1.71,56948.72,31352.11,12.03,1.82,34.53,2069.75,48.93,0.62,-16.62,27.67
-LEW,Lewis Group Limited,Furniture & Fixtures,16.94,1172.34,6137.20,0.22,0.19,4.01,271.00,0.00,5.07,-62.02,10.37
-WBO,Wilson Bayly Holmes-Ovcon Limited,Construction Services,2.14,5474.59,40614.30,0.83,0.13,9.74,1064.18,5.02,1.08,-38.67,43.95
-ARI,African Rainbow Minerals Ltd,Metal Mining,10.83,28648.24,8834.00,0.88,3.24,7.07,1943.00,7.21,2.24,-33.61,56.37
-ADI,Adaptit Holdings Ltd.,Software & Programming,9.55,266.90,1438.14,0.35,0.19,3.50,-44.62,74.27,0.51,-74.78,44.63
-NIV,Niveus Investments Ltd,Real Estate Operations,--,268.12,18.40,0.70,14.57,--,-0.21,0.00,4.05,-79.45,31.58
-COH,Curro Hldg,Schools,1.04,4528.85,2944.00,0.84,1.54,22.42,-707.00,75.45,0.83,-61.44,134.33
-LHC,Life Healthcare Group Holdings Ltd,Healthcare Facilities,2.88,26984.55,25672.00,1.65,1.05,10.46,1274.00,79.45,0.66,-31.91,13.52
-ZED,Zeder Investment Limited,Misc. Financial Services,5.85,3207.39,7492.00,0.40,0.43,--,-244.00,52.02,0.58,-16.89,26.35
-SUR,Spur Corporation Limited,Restaurants,8.44,1560.60,944.78,1.88,1.65,9.90,52.34,0.00,7.50,-40.45,14.33
-AMS,Anglo American Platinum Ltd,Metal Mining,3.01,252206.50,99551.00,4.15,2.53,13.32,14917.00,1.47,0.86,-32.87,4930.66
-ANG,AngloGold Ashanti Limited,Gold & Silver,0.34,214952.70,67050.09,4.27,3.21,31.20,5725.41,83.48,0.79,-1.12,223.90
-CMH,Combined Motor Holdings Limited,Retail (Specialty),14.67,860.22,11154.76,1.14,0.08,4.03,539.29,181.65,0.47,-52.08,15.00
-EXX,Exxaro Resources Limited,Coal,13.39,38227.38,25726.00,1.10,1.49,3.50,-9801.00,24.46,1.41,-37.86,41.96
-AIP,Adcock Ingram Holdings Limited,Retail (Drugs),4.48,7715.81,7078.44,1.75,1.09,10.58,290.48,0.00,1.22,-35.40,18.65
-HLM,Hulamin Limited,Misc. Fabricated Products,15.65,367.54,11533.82,0.10,0.03,--,72.58,21.56,0.98,-74.16,35.29
-WSL,Wescoal Holdings Ltd.,Coal,--,488.18,3964.57,0.44,0.12,5.41,69.62,53.81,0.83,-35.88,14.74
-RCL,RCL Foods Ltd,Food Processing,2.61,9206.44,25887.51,0.77,0.36,--,-1043.53,30.55,1.06,-37.62,18.52
-IVT,Invicta Holdings Limited,Constr. & Agric. Machinery,10.20,525.11,10449.70,0.12,0.05,3.85,-603.56,67.81,1.02,-82.71,9.75
-NPK,Nampak Ltd,Containers & Packaging,--,973.27,14642.40,0.10,0.07,3.34,-471.40,90.54,0.76,-87.98,65.88
-SAP,Sappi Limited,Paper & Paper Products,11.48,10915.15,109296.40,0.29,0.10,2.71,38.04,97.23,0.93,-71.95,16.28
-TBS,Tiger Brands Limited,Food Processing,4.29,34017.45,29232.70,2.11,1.16,7.60,-486.60,3.40,1.02,-31.93,24.62
-MTH,Motus Holdings Ltd,Auto & Truck Manufacturers,8.50,5448.77,79711.00,0.46,0.07,3.06,808.00,64.51,0.46,-69.36,23.52
-NHM,Northam Platinum Limited,Metal Mining,--,47231.23,10649.51,4.35,4.44,539.42,213.03,199.73,0.60,-38.22,85.75
-OCE,Oceana Group Ltd,Food Processing,6.09,7925.04,7647.42,1.42,1.04,12.50,-248.80,73.19,1.04,-22.07,46.48
-S32,South32 Ltd,Metal Mining,3.13,8941.36,11420.98,0.57,0.78,15.42,634.32,8.89,1.45,-47.59,16.35
-L4L,Long4life Ltd,Retail (Specialty),--,2403.93,3642.34,0.51,0.66,7.28,178.31,2.93,2.63,-44.55,26.13
-ARL,Astral Foods Limited,Food Processing,4.79,8112.30,13485.47,1.94,0.60,11.40,-269.14,1.17,1.23,-15.06,30.34
-MUR,Murray & Roberts Holdings Limited,Construction Services,9.95,2850.76,20167.00,0.45,0.14,6.09,237.70,29.46,1.12,-60.58,41.19
-APN,Aspen Pharmacare Holdings Limited,Biotechnology & Drugs,--,50159.46,38872.00,0.92,1.29,25.13,982.00,88.47,1.07,-12.26,71.52
-GPL,Grand Parade Investments Ltd,Casinos & Gaming,--,1052.85,1409.42,0.51,0.75,13.03,-75.78,33.04,0.92,-41.05,10.89
-TWR,Tower Property Fund Ltd,Real Estate Operations,16.98,747.01,471.74,0.22,1.58,3.02,28.51,57.15,0.76,-64.52,41.94
-REM,Remgro Limited,Food Processing,4.46,68226.66,56968.00,0.72,1.20,--,-95.00,22.15,2.20,-36.23,26.95
-MEI,Mediclinic International PLC,Healthcare Facilities,1.34,1795.93,2932.00,0.57,0.61,--,285.00,62.90,1.71,-41.77,5.17
-SSS,Stor-Age Property REIT Ltd,Real Estate Operations,8.57,4934.92,524.35,1.06,9.41,15.50,-392.01,42.55,0.54,-22.40,23.51
-MRP,MR Price Group Ltd,Retail (Apparel),5.74,33593.30,22361.00,3.99,1.50,11.61,517.00,1.44,2.66,-41.80,33.09
-DCP,Dis-Chem Pharmacies Ltd,Retail (Drugs),1.17,18423.01,21420.02,9.77,0.86,25.63,191.21,208.31,0.30,-26.89,8.07
-HDC,Hudaco Industries Limited,Appliance & Tool,9.00,2322.44,6703.83,0.78,0.35,5.11,388.09,41.22,1.13,-51.17,9.68
-NT1,Net 1 UEPS Technologies Inc,Consumer Financial Services,--,203.65,360.99,0.64,0.56,--,-15.26,26.61,1.21,-19.10,33.33
-TKG,Telkom SA SOC Ltd,Communications Services,17.18,9681.00,41774.00,0.32,0.23,3.43,-1878.00,34.63,0.82,-81.07,42.51
-OMN,Omnia Holdings Limited,Chemical Manufacturing,--,4123.18,18628.00,0.33,0.22,--,-962.00,70.85,0.56,-43.42,95.12
-AVV,Alviva Holdings Ltd,Computer Storage Devices,6.00,677.50,15922.64,0.30,0.04,1.85,-147.02,48.11,1.13,-71.97,48.80
-SPP,Spar Group Limited,Retail (Grocery),4.24,36498.14,109477.10,4.88,0.33,16.94,-727.30,107.66,0.84,-12.36,33.22
-RBP,Royal Bafokeng Platinum Ltd,Metal Mining,--,9786.43,7491.90,0.53,1.31,162.21,-667.70,35.22,2.64,-48.58,130.48
-HAR,Harmony Gold Mining Company Ltd,Gold & Silver,--,39272.99,26912.00,1.73,1.46,--,-357.00,26.16,0.75,-1.36,225.26
-SUI,Sun International Ltd,Casinos & Gaming,--,2358.61,17232.00,0.83,0.14,3.32,2299.00,549.64,0.35,-71.25,22.60
-SHP,Shoprite Holdings Ltd,Retail (Grocery),2.87,65638.57,150395.00,2.78,0.44,17.77,-2400.00,168.81,0.44,-39.84,16.83
-SPG,Super Group Limited,Misc. Transportation,--,4955.91,37861.77,0.44,0.13,3.70,-509.85,60.13,0.82,-64.35,19.21
-SAC,SA Corporate Re Est Fd Managers (Pty)Ltd,Investment Services,27.14,2715.91,2367.36,0.23,1.15,11.58,-940.18,58.15,0.73,-70.41,8.00
-WHL,Woolworths Holdings Limited,Food Processing,6.60,29118.89,73103.00,2.82,0.40,--,-445.00,152.66,0.34,-54.85,15.66
-RBX,Raubex Group Limited,Construction Services,1.16,3415.08,8519.14,0.84,0.40,59.07,113.21,16.28,1.33,-26.31,54.65
-AEL,Allied Electronics Corporation Limited,Communications Services,1.45,8069.62,15723.00,2.12,0.51,11.53,394.00,82.80,0.94,-29.91,44.96
-HCI,Hosken Consolidated Investments Limited,Casinos & Gaming,11.55,1935.03,25160.49,0.12,0.08,2.34,-16.28,152.38,0.57,-81.17,13.06
-MFL,Metrofile Holdings Ltd,Computer Services,4.09,1154.26,913.42,1.92,1.26,28.14,15.63,112.77,1.30,-18.79,112.50
-ANH,Anheuser Busch Inbev NV,Beverages (Alcoholic),2.31,64283.47,48362.98,1.06,1.33,9.51,2963.94,136.08,0.70,-58.88,31.31
-BHP,BHP Group PLC,Metal Mining,8.64,73463.83,35811.28,1.70,2.05,9.55,-523.16,52.56,1.58,-38.10,36.91
-AFE,AECI Limited,Chemical Manufacturing,6.97,9328.38,24799.00,0.84,0.38,6.46,455.00,55.03,1.33,-31.96,19.04
-RFG,Rhodes Food Group Holdings Ltd,Food Processing,1.90,3775.89,5413.63,1.52,0.70,17.42,83.52,47.43,0.79,-20.17,137.13
-ART,Argent Industrial Limited,Iron & Steel,2.22,290.55,1721.58,0.34,0.17,4.45,93.57,7.23,1.35,-27.42,12.22
-KIO,Kumba Iron Ore Ltd.,Metal Mining,13.08,111715.50,64285.00,3.07,1.74,6.86,6804.00,1.50,2.39,-34.44,68.99
-MIX,MiX Telematics Ltd.,Software & Programming,2.41,3960.15,1975.86,2.11,2.00,19.01,195.54,4.12,1.76,-37.24,60.73
-TSG,Tsogo Sun Gaming Ltd,Casinos & Gaming,26.97,3129.56,11619.00,0.30,0.27,1.94,-626.00,128.85,3.61,-87.38,44.66
-SDO,Stadio Holdings Ltd,Schools,--,917.33,815.43,0.58,1.12,13.30,-26.14,14.95,1.15,-69.06,49.33
-EOH,,,--,575.54,11791.07,0.35,0.05,--,-826.26,158.55,0.96,-87.46,53.05
-GFI,Gold Fields Limited,Gold & Silver,1.02,138890.10,56438.10,2.45,2.46,42.32,2817.05,78.46,0.50,-1.66,210.53
-TRU,Truworths International Limited,Retail (Apparel),12.89,12961.13,18094.00,1.49,0.72,20.29,1771.00,69.57,1.63,-63.01,31.27
-MTA,Metair Investments Limited,Auto & Truck Parts,6.85,2905.19,11238.00,0.67,0.26,4.50,76.01,58.69,1.13,-43.30,22.48
-TFG,Foschini Group Ltd,Retail (Apparel),10.54,16371.98,34101.40,1.14,0.48,6.11,3038.50,125.71,0.92,-65.02,23.48
-MSM,Massmart Holdings Limited,Retail (Specialty),7.65,5807.18,93660.00,1.21,0.06,--,-694.30,293.58,0.27,-72.49,8.61
-ATT,Attacq Ltd,Real Estate Operations,14.33,4456.99,2283.24,0.27,1.95,--,-155.51,67.12,1.47,-58.98,40.43
-GLN,Glencore PLC,Coal,--,18520.54,173938.80,0.56,0.11,--,1056.84,91.98,0.55,-56.29,26.36
-KAP,Kap Industrial Holdings Ltd,Misc. Transportation,11.79,4953.56,25602.00,0.40,0.19,4.60,1040.00,49.21,0.89,-74.67,65.22
-RDF,Redefine Properties Ltd,Real Estate Operations,21.02,12687.07,8791.20,0.21,1.44,3.56,-734.38,73.60,0.26,-78.55,57.55
-BAW,Barloworld Limited,Rental & Leasing,7.14,12849.94,56834.00,0.57,0.23,7.09,2705.00,35.43,1.37,-52.04,24.33
-ASC,Ascendis Health Ltd,Major Drugs,--,528.63,7117.77,0.27,0.07,--,-195.66,300.17,0.37,-81.38,272.41
-DTC,Datatec Ltd.,Computer Services,4.07,4966.75,82407.52,0.44,0.06,216.39,-548.97,68.60,1.02,-34.82,41.03
-ACL,ArcelorMittal South Africa Limited,Iron & Steel,--,694.22,41353.00,0.20,0.02,--,-1362.00,160.29,0.41,-82.52,134.62
-FBR,Famous Brands Ltd,Restaurants,4.91,3703.88,7179.54,2.60,0.52,--,429.94,148.69,1.23,-61.87,89.59
-DRD,DRDGOLD Ltd.,Gold & Silver,2.54,15735.51,2762.10,4.65,5.70,157.64,-59.10,0.41,0.77,-2.52,661.51
-BID,Bid Corporation Ltd,Restaurants,2.97,76861.23,129250.00,2.68,0.59,15.82,-780.66,36.85,0.81,-35.99,33.99
-RLO,Reunert Limited,Electronic Instr. & Controls,12.34,7633.68,10714.00,0.91,0.71,8.53,394.00,5.24,1.58,-49.66,7.17
-AFX,African Oxygen Limited,Chemical Manufacturing,6.07,5691.36,6086.00,1.19,0.94,8.18,463.00,22.24,1.98,-31.35,16.90
-AGL,Anglo American plc,Metal Mining,6.33,19014.28,24152.88,0.95,0.79,6.25,1211.28,43.29,1.24,-39.06,37.33
-MTN,MTN Group Limited,Communications Services,12.60,80552.53,151460.00,0.92,0.53,8.71,430.00,167.59,0.88,-62.65,62.86
-PPC,PPC Ltd,Construction - Raw Materials,--,1943.60,10409.00,0.20,0.19,7.96,456.00,54.24,0.63,-78.37,64.86
-SOL,Sasol Limited,Chemical Manufacturing,19.43,42197.56,203576.00,0.19,0.21,9.67,-23901.00,63.04,0.99,-86.07,222.58
-AVI,AVI Ltd.,Food Processing,5.40,25859.48,13150.90,5.58,1.97,15.82,-666.50,58.97,0.55,-20.41,29.65
-ASR,Assore Limited,Metal Mining,6.61,44052.99,6301.57,1.09,6.99,5.49,-2117.85,4.67,3.35,-22.07,103.36
-CGR,Calgro M3 Holdings Limited.,Construction Services,--,402.90,997.06,0.44,0.40,110.26,199.24,120.20,0.35,-65.75,242.50
-BVT,Bidvest Group Ltd,Retail (Specialty),4.27,48233.89,77152.38,1.87,0.63,12.70,-1103.90,81.39,0.83,-37.33,12.15
-VOD,Vodacom Group Ltd,Communications Services,6.39,228051.10,86627.00,2.71,2.63,14.51,409.00,43.91,1.00,-9.09,36.96
-PAN,Pan African Resources plc,Gold & Silver,0.80,281.93,176.02,1.90,1.60,9.16,-14.09,72.86,0.38,0.00,87.50
-MNP,Mondi Plc,Containers & Packaging,1.76,6422.50,6358.84,1.83,1.01,9.02,153.11,56.69,0.58,-29.07,14.09
-AFT,Afrimat Limited,Construction - Raw Materials,3.90,3581.56,2966.40,2.43,1.21,11.39,230.38,37.03,0.93,-31.51,18.99
-PIK,Pick 'n Pay Stores Limited,Retail (Grocery),3.88,29888.29,88293.20,9.74,0.34,20.17,1027.30,627.32,0.39,-17.02,34.15
-ACT,AfroCentric Investment Corp Ltd,Healthcare Facilities,8.97,2021.33,5296.79,0.96,0.38,7.43,-33.79,38.86,1.17,-33.58,51.07
-EMI,Emira Property Fund,Real Estate Operations,11.95,3130.78,1686.96,0.35,1.86,3.41,-223.02,58.94,0.16,-60.01,10.11
-PPH,Pepkor Holdings Ltd,Retail (Department & Discount),1.97,35924.86,69634.00,0.63,0.52,16.04,-1161.00,30.68,0.78,-48.73,5.64
-CFR,Compagnie Financiere Richemont SA,Jewelry & Silverware,2.82,533735.00,287909.60,1.65,1.85,10.05,5639.23,41.65,1.76,-18.80,28.64
-SEP,Sephaku Holdings Ltd,Construction - Raw Materials,--,127.24,835.82,0.12,0.15,2.86,29.20,11.65,0.80,-74.62,25.00
+Symbol,Name,Industry,Price,Dividend,Market Cap,Revenue,P/B,P/S,P/E,Cashflow,Debt/Equity,Quick Ratio,Change From High,Bounce from bottom
+AVV,Alviva Holdings Ltd,Computer Storage Devices,4.97,6.00,677.50,15922.64,0.30,0.04,1.85,-147.02,48.11,1.13,-71.97,48.80
+EMI,Emira Property Fund,Real Estate Operations,5.99,11.95,3130.78,1686.96,0.35,1.86,3.41,-223.02,58.94,0.16,-60.01,10.11
+TWR,Tower Property Fund Ltd,Real Estate Operations,2.20,16.98,747.01,471.74,0.22,1.58,3.02,28.51,57.15,0.76,-64.52,41.94
+AFX,African Oxygen Limited,Chemical Manufacturing,16.60,6.07,5691.36,6086.00,1.19,0.94,8.18,463.00,22.24,1.98,-31.35,16.90
+WSL,Wescoal Holdings Ltd.,Coal,1.09,--,488.18,3964.57,0.44,0.12,5.41,69.62,53.81,0.83,-35.88,14.74
+ADH,Advtech Limited,Schools,8.46,3.68,4642.57,5108.00,1.37,0.91,9.71,-225.90,96.61,0.32,-43.03,42.91
+ANG,AngloGold Ashanti Limited,Gold & Silver,518.28,0.34,214952.70,67050.09,4.27,3.21,31.20,5725.41,83.48,0.79,-1.12,223.90
+ART,Argent Industrial Limited,Iron & Steel,4.50,2.22,290.55,1721.58,0.34,0.17,4.45,93.57,7.23,1.35,-27.42,12.22
+SPG,Super Group Limited,Misc. Transportation,13.34,--,4955.91,37861.77,0.44,0.13,3.70,-509.85,60.13,0.82,-64.35,19.21
+ANH,Anheuser Busch Inbev NV,Beverages (Alcoholic),38.12,2.31,64283.47,48362.98,1.06,1.33,9.51,2963.94,136.08,0.70,-58.88,31.31
+NHM,Northam Platinum Limited,Metal Mining,92.65,--,47231.23,10649.51,4.35,4.44,539.42,213.03,199.73,0.60,-38.22,85.75
+HLM,Hulamin Limited,Misc. Fabricated Products,1.15,15.65,367.54,11533.82,0.10,0.03,--,72.58,21.56,0.98,-74.16,35.29
+SDO,Stadio Holdings Ltd,Schools,1.12,--,917.33,815.43,0.58,1.12,13.30,-26.14,14.95,1.15,-69.06,49.33
+AGL,Anglo American plc,Metal Mining,13.98,6.33,19014.28,24152.88,0.95,0.79,6.25,1211.28,43.29,1.24,-39.06,37.33
+RFG,Rhodes Food Group Holdings Ltd,Food Processing,14.37,1.90,3775.89,5413.63,1.52,0.70,17.42,83.52,47.43,0.79,-20.17,137.13
+CMH,Combined Motor Holdings Limited,Retail (Specialty),11.50,14.67,860.22,11154.76,1.14,0.08,4.03,539.29,181.65,0.47,-52.08,15.00
+ACL,ArcelorMittal South Africa Limited,Iron & Steel,0.61,--,694.22,41353.00,0.20,0.02,--,-1362.00,160.29,0.41,-82.52,134.62
+DRD,DRDGOLD Ltd.,Gold & Silver,18.20,2.54,15735.51,2762.10,4.65,5.70,157.64,-59.10,0.41,0.77,-2.52,661.51
+GPL,Grand Parade Investments Ltd,Casinos & Gaming,2.24,--,1052.85,1409.42,0.51,0.75,13.03,-75.78,33.04,0.92,-41.05,10.89
+CFR,Compagnie Financiere Richemont SA,Jewelry & Silverware,101.87,2.82,533735.00,287909.60,1.65,1.85,10.05,5639.23,41.65,1.76,-18.80,28.64
+ZED,Zeder Investment Limited,Misc. Financial Services,1.87,5.85,3207.39,7492.00,0.40,0.43,--,-244.00,52.02,0.58,-16.89,26.35
+SOL,Sasol Limited,Chemical Manufacturing,67.00,19.43,42197.56,203576.00,0.19,0.21,9.67,-23901.00,63.04,0.99,-86.07,222.58
+FBR,Famous Brands Ltd,Restaurants,36.97,4.91,3703.88,7179.54,2.60,0.52,--,429.94,148.69,1.23,-61.87,89.59
+L4L,Long4life Ltd,Retail (Specialty),2.80,--,2403.93,3642.34,0.51,0.66,7.28,178.31,2.93,2.63,-44.55,26.13
+IMP,Impala Platinum Holdings Limited,Metal Mining,110.07,--,95894.31,48629.00,2.02,1.97,54.23,6781.00,21.88,1.21,-37.99,145.91
+CSB,Cashbuild Limited,Retail (Home Improvement),142.66,5.89,3565.05,10821.24,1.65,0.33,7.59,-424.70,0.00,0.47,-51.69,103.80
+MDI,Master Drilling Group Ltd,Metal Mining,5.75,4.33,862.58,2821.39,0.27,0.31,2.99,-62.61,35.83,1.62,-54.00,15.00
+NPK,Nampak Ltd,Containers & Packaging,1.41,--,973.27,14642.40,0.10,0.07,3.34,-471.40,90.54,0.76,-87.98,65.88
+WBO,Wilson Bayly Holmes-Ovcon Limited,Construction Services,91.41,2.14,5474.59,40614.30,0.83,0.13,9.74,1064.18,5.02,1.08,-38.67,43.95
+SAP,Sappi Limited,Paper & Paper Products,20.00,11.48,10915.15,109296.40,0.29,0.10,2.71,38.04,97.23,0.93,-71.95,16.28
+TKG,Telkom SA SOC Ltd,Communications Services,18.94,17.18,9681.00,41774.00,0.32,0.23,3.43,-1878.00,34.63,0.82,-81.07,42.51
+DTC,Datatec Ltd.,Computer Services,24.75,4.07,4966.75,82407.52,0.44,0.06,216.39,-548.97,68.60,1.02,-34.82,41.03
+RBP,Royal Bafokeng Platinum Ltd,Metal Mining,33.42,--,9786.43,7491.90,0.53,1.31,162.21,-667.70,35.22,2.64,-48.58,130.48
+SAC,SA Corporate Re Est Fd Managers (Pty)Ltd,Investment Services,1.08,27.14,2715.91,2367.36,0.23,1.15,11.58,-940.18,58.15,0.73,-70.41,8.00
+LHC,,,18.39,2.88,26984.55,25672.00,1.65,1.05,10.46,1274.00,79.45,0.66,-31.91,13.52
+AEL,Allied Electronics Corporation Limited,Communications Services,20.15,1.45,8069.62,15723.00,2.12,0.51,11.53,394.00,82.80,0.94,-29.91,44.96
+GFI,Gold Fields Limited,Gold & Silver,157.84,1.02,138890.10,56438.10,2.45,2.46,42.32,2817.05,78.46,0.50,-1.66,210.53
+ASC,Ascendis Health Ltd,Major Drugs,1.08,--,528.63,7117.77,0.27,0.07,--,-195.66,300.17,0.37,-81.38,272.41
+PPH,Pepkor Holdings Ltd,Retail (Department & Discount),10.30,1.97,35924.86,69634.00,0.63,0.52,16.04,-1161.00,30.68,0.78,-48.73,5.64
+ADI,,,1.75,9.55,266.90,1438.14,0.35,0.19,3.50,-44.62,74.27,0.51,-74.78,44.63
+AVI,AVI Ltd.,Food Processing,77.00,5.40,25859.48,13150.90,5.58,1.97,15.82,-666.50,58.97,0.55,-20.41,29.65
+WHL,Woolworths Holdings Limited,Food Processing,27.77,6.60,29118.89,73103.00,2.82,0.40,--,-445.00,152.66,0.34,-54.85,15.66
+COH,Curro Hldg,Schools,10.99,1.04,4528.85,2944.00,0.84,1.54,22.42,-707.00,75.45,0.83,-61.44,134.33
+ATT,Attacq Ltd,Real Estate Operations,5.94,14.33,4456.99,2283.24,0.27,1.95,--,-155.51,67.12,1.47,-58.98,40.43
+AFE,AECI Limited,Chemical Manufacturing,76.20,6.97,9328.38,24799.00,0.84,0.38,6.46,455.00,55.03,1.33,-31.96,19.04
+MSM,Massmart Holdings Limited,Retail (Specialty),26.50,7.65,5807.18,93660.00,1.21,0.06,--,-694.30,293.58,0.27,-72.49,8.61
+IVT,Invicta Holdings Limited,Constr. & Agric. Machinery,4.84,10.20,525.11,10449.70,0.12,0.05,3.85,-603.56,67.81,1.02,-82.71,9.75
+HCI,Hosken Consolidated Investments Limited,Casinos & Gaming,22.60,11.55,1935.03,25160.49,0.12,0.08,2.34,-16.28,152.38,0.57,-81.17,13.06
+MFL,Metrofile Holdings Ltd,Computer Services,2.55,4.09,1154.26,913.42,1.92,1.26,28.14,15.63,112.77,1.30,-18.79,112.50
+AFT,Afrimat Limited,Construction - Raw Materials,25.00,3.90,3581.56,2966.40,2.43,1.21,11.39,230.38,37.03,0.93,-31.51,18.99
+CGR,Calgro M3 Holdings Limited.,Construction Services,2.74,--,402.90,997.06,0.44,0.40,110.26,199.24,120.20,0.35,-65.75,242.50
+SUI,Sun International Ltd,Casinos & Gaming,17.25,--,2358.61,17232.00,0.83,0.14,3.32,2299.00,549.64,0.35,-71.25,22.60
+RDF,Redefine Properties Ltd,Real Estate Operations,2.19,21.02,12687.07,8791.20,0.21,1.44,3.56,-734.38,73.60,0.26,-78.55,57.55
+TFG,Foschini Group Ltd,Retail (Apparel),69.15,10.54,16371.98,34101.40,1.14,0.48,6.11,3038.50,125.71,0.92,-65.02,23.48
+MTA,Metair Investments Limited,Auto & Truck Parts,14.60,6.85,2905.19,11238.00,0.67,0.26,4.50,76.01,58.69,1.13,-43.30,22.48
+SPP,Spar Group Limited,Retail (Grocery),189.50,4.24,36498.14,109477.10,4.88,0.33,16.94,-727.30,107.66,0.84,-12.36,33.22
+MRP,MR Price Group Ltd,Retail (Apparel),130.69,5.74,33593.30,22361.00,3.99,1.50,11.61,517.00,1.44,2.66,-41.80,33.09
+ARI,African Rainbow Minerals Ltd,Metal Mining,128.32,10.83,28648.24,8834.00,0.88,3.24,7.07,1943.00,7.21,2.24,-33.61,56.37
+MPT,Mpact Ltd,Paper & Paper Products,7.50,7.87,1299.78,11076.30,0.37,0.12,--,213.40,78.46,1.43,-71.03,575.68
+KAP,Kap Industrial Holdings Ltd,Misc. Transportation,1.90,11.79,4953.56,25602.00,0.40,0.19,4.60,1040.00,49.21,0.89,-74.67,65.22
+SSS,Stor-Age Property REIT Ltd,Real Estate Operations,12.40,8.57,4934.92,524.35,1.06,9.41,15.50,-392.01,42.55,0.54,-22.40,23.51
+RCL,RCL Foods Ltd,Food Processing,9.60,2.61,9206.44,25887.51,0.77,0.36,--,-1043.53,30.55,1.06,-37.62,18.52
+S32,South32 Ltd,Metal Mining,1.85,3.13,8941.36,11420.98,0.57,0.78,15.42,634.32,8.89,1.45,-47.59,16.35
+TSG,Tsogo Sun Gaming Ltd,Casinos & Gaming,2.98,26.97,3129.56,11619.00,0.30,0.27,1.94,-626.00,128.85,3.61,-87.38,44.66
+BID,Bid Corporation Ltd,Restaurants,229.16,2.97,76861.23,129250.00,2.68,0.59,15.82,-780.66,36.85,0.81,-35.99,33.99
+ASR,Assore Limited,Metal Mining,315.55,6.61,44052.99,6301.57,1.09,6.99,5.49,-2117.85,4.67,3.35,-22.07,103.36
+GLN,Glencore PLC,Coal,1.39,--,18520.54,173938.80,0.56,0.11,--,1056.84,91.98,0.55,-56.29,26.36
+BAW,Barloworld Limited,Rental & Leasing,63.92,7.14,12849.94,56834.00,0.57,0.23,7.09,2705.00,35.43,1.37,-52.04,24.33
+CLS,Clicks Group Ltd,Retail (Drugs),229.02,1.71,56948.72,31352.11,12.03,1.82,34.53,2069.75,48.93,0.62,-16.62,27.67
+BVT,Bidvest Group Ltd,Retail (Specialty),141.75,4.27,48233.89,77152.38,1.87,0.63,12.70,-1103.90,81.39,0.83,-37.33,12.15
+PPC,PPC Ltd,Construction - Raw Materials,1.22,--,1943.60,10409.00,0.20,0.19,7.96,456.00,54.24,0.63,-78.37,64.86
+APN,Aspen Pharmacare Holdings Limited,Biotechnology & Drugs,109.89,--,50159.46,38872.00,0.92,1.29,25.13,982.00,88.47,1.07,-12.26,71.52
+MIX,MiX Telematics Ltd.,Software & Programming,6.59,2.41,3960.15,1975.86,2.11,2.00,19.01,195.54,4.12,1.76,-37.24,60.73
+ITE,Italtile Limited,Retail (Specialty),10.00,4.02,13216.54,6975.00,2.18,1.89,9.78,52.00,14.34,3.25,-31.03,9.89
+MTN,MTN Group Limited,Communications Services,42.75,12.60,80552.53,151460.00,0.92,0.53,8.71,430.00,167.59,0.88,-62.65,62.86
+BTI,British American Tobacco plc,Tobacco,29.55,6.93,67793.65,25877.00,1.06,2.62,11.97,3583.00,70.25,0.38,-15.74,31.39
+CLH,City Lodge Hotels Limited,Hotels & Motels,27.50,10.18,1198.28,1547.98,1.08,0.77,4.90,-211.71,128.74,1.36,-77.25,106.77
+SUR,Spur Corporation Limited,Restaurants,17.15,8.44,1560.60,944.78,1.88,1.65,9.90,52.34,0.00,7.50,-40.45,14.33
+KIO,Kumba Iron Ore Ltd.,Metal Mining,346.85,13.08,111715.50,64285.00,3.07,1.74,6.86,6804.00,1.50,2.39,-34.44,68.99
+TBS,Tiger Brands Limited,Food Processing,179.21,4.29,34017.45,29232.70,2.11,1.16,7.60,-486.60,3.40,1.02,-31.93,24.62
+ACT,AfroCentric Investment Corp Ltd,Healthcare Facilities,3.52,9.66,2021.33,5296.79,0.96,0.38,7.43,-33.79,38.86,1.17,-33.58,51.07
+SEP,Sephaku Holdings Ltd,Construction - Raw Materials,0.50,--,127.24,835.82,0.12,0.15,2.86,29.20,11.65,0.80,-74.62,25.00
+EXX,Exxaro Resources Limited,Coal,106.57,13.39,38227.38,25726.00,1.10,1.49,3.50,-9801.00,24.46,1.41,-37.86,41.96
+EOH,EOH Holdings Ltd.,Software & Programming,3.26,--,575.54,11791.07,0.35,0.05,--,-826.26,158.55,0.96,-87.46,53.05
+MUR,Murray & Roberts Holdings Limited,Construction Services,6.41,9.95,2850.76,20167.00,0.45,0.14,6.09,237.70,29.46,1.12,-60.58,41.19
+REM,Remgro Limited,Food Processing,128.92,4.46,68226.66,56968.00,0.72,1.20,--,-95.00,22.15,2.20,-36.23,26.95
+BHP,BHP Group PLC,Metal Mining,12.87,8.64,73463.83,35811.28,1.70,2.05,9.55,-523.16,52.56,1.58,-38.10,36.91
+RLO,Reunert Limited,Electronic Instr. & Controls,41.27,12.34,7633.68,10714.00,0.91,0.71,8.53,394.00,5.24,1.58,-49.66,7.17
+DCP,Dis-Chem Pharmacies Ltd,Retail (Drugs),21.42,1.17,18423.01,21420.02,9.77,0.86,25.63,191.21,208.31,0.30,-26.89,8.07
+MTH,Motus Holdings Ltd,Auto & Truck Manufacturers,28.41,8.50,5448.77,79711.00,0.46,0.07,3.06,808.00,64.51,0.46,-69.36,23.52
+ARL,Astral Foods Limited,Food Processing,189.00,4.79,8112.30,13485.47,1.94,0.60,11.40,-269.14,1.17,1.23,-15.06,30.34
+NIV,Niveus Investments Ltd,Real Estate Operations,2.25,--,268.12,18.40,0.70,14.57,--,-0.21,0.00,4.05,-79.45,31.58
+TRU,Truworths International Limited,Retail (Apparel),29.26,12.89,12961.13,18094.00,1.49,0.72,20.29,1771.00,69.57,1.63,-63.01,31.27
+RBX,Raubex Group Limited,Construction Services,18.79,1.16,3415.08,8519.14,0.84,0.40,59.07,113.21,16.28,1.33,-26.31,54.65
+PAN,Pan African Resources plc,Gold & Silver,0.15,0.80,281.93,176.02,1.90,1.60,9.16,-14.09,72.86,0.38,0.00,87.50
+AIP,Adcock Ingram Holdings Limited,Retail (Drugs),43.90,4.48,7715.81,7078.44,1.75,1.09,10.58,290.48,0.00,1.22,-35.40,18.65
+HDC,Hudaco Industries Limited,Appliance & Tool,68.00,9.00,2322.44,6703.83,0.78,0.35,5.11,388.09,41.22,1.13,-51.17,9.68
+OCE,Oceana Group Ltd,Food Processing,60.76,6.09,7925.04,7647.42,1.42,1.04,12.50,-248.80,73.19,1.04,-22.07,46.48
+NT1,Net 1 UEPS Technologies Inc,Consumer Financial Services,3.60,--,203.65,360.99,0.64,0.56,--,-15.26,26.61,1.21,-19.10,33.33
+HAR,Harmony Gold Mining Company Ltd,Gold & Silver,72.37,--,39273.18,26912.00,1.73,1.46,--,-357.00,26.16,0.75,-1.36,225.26
+NTC,Netcare Limited,Healthcare Facilities,15.69,7.13,22974.52,21589.00,2.21,1.06,8.90,-207.00,67.23,0.94,-36.30,35.96
+VOD,Vodacom Group Ltd,Communications Services,124.22,6.39,228051.10,86627.00,2.71,2.63,14.51,409.00,43.91,1.00,-9.09,36.96
+MNP,Mondi Plc,Containers & Packaging,13.20,1.76,6422.50,6358.84,1.83,1.01,9.02,153.11,56.69,0.58,-29.07,14.09
+AMS,Anglo American Platinum Ltd,Metal Mining,935.20,3.01,252206.50,99551.00,4.15,2.53,13.32,14917.00,1.47,0.86,-32.87,4930.66
+SHP,Shoprite Holdings Ltd,Retail (Grocery),111.00,2.87,65638.57,150395.00,2.78,0.44,17.77,-2400.00,168.81,0.44,-39.84,16.83
+LEW,Lewis Group Limited,Furniture & Fixtures,14.80,16.94,1172.34,6137.20,0.22,0.19,4.01,271.00,0.00,5.07,-62.02,10.37
+PIK,Pick 'n Pay Stores Limited,Retail (Grocery),60.57,3.88,29888.29,88293.20,9.74,0.34,20.17,1027.30,627.32,0.39,-17.02,34.15
+MEI,Mediclinic International PLC,Healthcare Facilities,2.44,1.34,1795.93,2932.00,0.57,0.61,--,285.00,62.90,1.71,-41.77,5.17
+BLU,Blue Label Telecoms Limited,Communications Services,1.92,--,1754.22,25869.43,0.73,0.07,--,-290.47,147.20,0.93,-63.22,26.32
+OMN,Omnia Holdings Limited,Chemical Manufacturing,24.39,--,4123.18,18628.00,0.33,0.22,--,-962.00,70.85,0.56,-43.42,95.12
