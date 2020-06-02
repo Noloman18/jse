@@ -17,6 +17,9 @@ public class Stock {
     public String yearHigh;
     public String yearLow;
     public String yearReturn;
+    public String threeMonthReturn;
+    public String revenueGrowth;
+    public String earningsGrowth;
 
     public String getDeadCatBounce() {
         try {

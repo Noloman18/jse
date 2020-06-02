@@ -35,6 +35,8 @@ public class ReutersStockService implements StockService {
             Double.parseDouble(stock.yearHigh);
             Double.parseDouble(stock.yearLow);
             Double.parseDouble(stock.yearReturn);
+            Double.parseDouble(stock.revenueGrowth);
+            Double.parseDouble(stock.earningsGrowth);
             return true;
         }
         catch(NumberFormatException|NullPointerException n) {
@@ -70,6 +72,9 @@ public class ReutersStockService implements StockService {
                   case "Free Cash Flow (Annual)":
                       stock.freeCashFlow = value;
                       break;
+                  case "13 Week Price Return (Daily)":
+                      stock.threeMonthReturn = value;
+                      break;
                   case "Total Debt/Total Equity (Annual)":
                       stock.debtToEquity = value;
                       break;
@@ -90,6 +95,12 @@ public class ReutersStockService implements StockService {
                       break;
                   case "Quick Ratio (Annual)":
                       stock.quickRatio = value;
+                      break;
+                  case "Revenue Growth (Quarterly YoY)":
+                      stock.revenueGrowth = value;
+                      break;
+                  case "EPS Growth (Quarterly YoY)":
+                      stock.earningsGrowth = value;
                       break;
               }
           }
